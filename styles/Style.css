@@ -40,9 +40,17 @@ h1{
     display: inline-block; /* Coloca los elementos de la lista en línea */
     margin-right: 15px; /* Espacio entre los elementos */
 }
+.seccion{
+    padding: 5%;
+    bottom: 100%;
+    background-color: #c4c0c0;
+    padding: 22% 5%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.3);
+}
 
 .contenido{
-    flex: 1;
+    border: 2px black solid;
     padding: 30px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0
